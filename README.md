@@ -6,6 +6,15 @@
 2. Heroku Account
 3. VS CODE IDE
 4. Git CLI
+Before opening Vscode
+A. Phyton data    --name of folder(linear reg and regmodel.pk1 saved on folder)
+B.open Github account and open repository,name,ticke gitignore,readme and select a license and then clone local --copy code)
+C.  open foler where the files to be saved eg-Bostone-house-pricing
+D. open VS code prompt and then paste the file location which was created
+E. paste the github file file from clone of personal file.
+
+open the file with the Vs code
+Check the setup, and click on the terminal,and open new terminal
 
 Create new env
 .....
