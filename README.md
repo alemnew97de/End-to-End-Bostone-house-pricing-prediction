@@ -15,11 +15,11 @@ conda activate venv/
 
 select the pythone type
 
-add requirement.txt folder, and then tools and pip install -r requirements.txt
+add requirements.txt folder, and then tools and pip install -r requirements.txt
 
 git config --global user.email 'alemnew97dessie@yahoo.com'
 
-git add requirement.txt
+git add requirements.txt
 
 git status
 
