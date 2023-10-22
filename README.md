@@ -6,11 +6,16 @@
 2. Heroku Account
 3. VS CODE IDE
 4. Git CLI
+
 Before opening Vscode
+
 A. Phyton data    --name of folder(linear reg and regmodel.pk1 saved on folder)
 B.open Github account and open repository,name,ticke gitignore,readme and select a license and then clone local --copy code)
+
 C.  open foler where the files to be saved eg-Bostone-house-pricing
+
 D. open VS code prompt and then paste the file location which was created
+
 E. paste the github file file from clone of personal file.
 
 open the file with the Vs code
@@ -47,3 +52,15 @@ scaling.pk1 file      on linear regression standaridzed or scaler section
 home html need creation of template folder followed by home.html
 
 run code   python app.py 
+
+api
+
+add predict_api on the website as shown below and the outcome displayed as shown as well
+--------/predict_api=Method not allowed since the method is POST
+
+to be functional---download postman to give some information
+
+check by providing the data at [0], columns and first data and then click SEND
+
+PRODUCE WEB API
+
