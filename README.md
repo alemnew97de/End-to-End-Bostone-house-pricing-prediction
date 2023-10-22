@@ -1,4 +1,4 @@
-# Bostone-house-pricing
+# Bostone-house-price prediction
 
 ### sofware and tools requirement
 
@@ -23,7 +23,7 @@ Check the setup, and click on the terminal,and open new terminal
 
 Create new env
 .....
-conda create -p venv python==3.7 -y
+conda create -p venv python==3.11 -y
 .....
 conda activate venv/
 

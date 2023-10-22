@@ -23,7 +23,7 @@ def predict_api():
     print(output[0])
     return jsonify(output[0])
 
-@app.route('/predict,methods=['POST]')
+@app.route('/predict,methods=['POST'])
 def predict():
     data=[float(x) for x in request.form.values()]
     final_input=scaler.transform(np.array()).reshape(1,-1)
