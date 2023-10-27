@@ -10,15 +10,15 @@
 Before opening Vscode
 
 A. Phyton data    --name of folder(linear reg and regmodel.pk1 saved on folder)
-B.open Github account and open repository,name,ticke gitignore,readme and select a license and then clone local --copy code)
+B.open Github account and open repository,name,ticke gitignore_python,readme and select a license and then clone local --copy code)
 
 C.  open foler where the files to be saved eg-Bostone-house-pricing
 
-D. open VS code prompt and then paste the file location which was created
+D. open VS code prompt and then = write 'cd' and paste the file location which was created
 
-E. paste the github file file from clone of personal file.
+E. paste the github file file from clone of personal file.'git clone' paste the clone
 
-open the file with the Vs code
+open the file with the Vs code or        code .   it can open vs code authomatically.
 Check the setup, and click on the terminal,and open new terminal
 
 Create new env
